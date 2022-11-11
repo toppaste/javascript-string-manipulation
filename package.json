@@ -18,7 +18,9 @@
   "dependencies": {
     "chai": "^4.2.0",
     "cross-env": "^7.0.0",
+    "debug": "^4.3.4",
     "esprima": "^4.0.1",
+    "mkdirp": "^1.0.4",
     "mocha": "^6.2.2",
     "sinon": "^8.0.4"
   },
