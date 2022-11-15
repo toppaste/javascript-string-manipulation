@@ -5,7 +5,7 @@ const help = String.raw`${usage}
 Converts text between newline (\n), carriage return (\r), and combined
 (\r\n) line endings.
 
-"Options:
+Options:
 
 [CR|LF|CRLF]: Desired line ending
 
